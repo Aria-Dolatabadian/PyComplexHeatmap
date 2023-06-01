@@ -1,0 +1,11 @@
+sample,AB,CD,EF,F
+sample1,GroupA,C,E,0.47
+sample2,GroupA,C,E,0.32
+sample3,GroupA,C,E,0.56
+sample4,GroupA,D,E,0.28
+sample5,GroupA,D,E,0.45
+sample6,GroupB,D,E,0.26
+sample7,GroupB,G,F,0.15
+sample8,GroupB,G,F,0.48
+sample9,GroupB,G,H,0.78
+sample10,GroupB,G,H,0.75
