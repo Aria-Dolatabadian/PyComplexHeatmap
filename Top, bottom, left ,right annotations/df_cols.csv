@@ -1,0 +1,884 @@
+col,GSE,Basename,NCBI_scientific_name,taxid,Tissue,Sex,Family,Order,Species,SuccessRate,common_names
+GSM4412025,GSE147003,GSM4412025,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.765818395,sheep
+GSM4412026,GSE147003,GSM4412026,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.797668587,sheep
+GSM4412027,GSE147003,GSM4412027,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.759256295,sheep
+GSM4412028,GSE147003,GSM4412028,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.749813274,sheep
+GSM4412029,GSE147003,GSM4412029,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.770433205,sheep
+GSM4412030,GSE147003,GSM4412030,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.771366837,sheep
+GSM4412031,GSE147003,GSM4412031,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.755548442,sheep
+GSM4412032,GSE147003,GSM4412032,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.781930218,sheep
+GSM4412033,GSE147003,GSM4412033,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.802416773,sheep
+GSM4412034,GSE147003,GSM4412034,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.770299829,sheep
+GSM4412035,GSE147003,GSM4412035,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.773981007,sheep
+GSM4412036,GSE147003,GSM4412036,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.752294067,sheep
+GSM4412037,GSE147003,GSM4412037,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.768992744,sheep
+GSM4412038,GSE147003,GSM4412038,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.790332907,sheep
+GSM4412039,GSE147003,GSM4412039,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.796895006,sheep
+GSM4412040,GSE147003,GSM4412040,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.783984208,sheep
+GSM4412041,GSE147003,GSM4412041,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.789239223,sheep
+GSM4412042,GSE147003,GSM4412042,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.768485915,sheep
+GSM4412043,GSE147003,GSM4412043,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.770833333,sheep
+GSM4412044,GSE147003,GSM4412044,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.788252241,sheep
+GSM4412045,GSE147003,GSM4412045,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.797508536,sheep
+GSM4412046,GSE147003,GSM4412046,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.782703799,sheep
+GSM4412047,GSE147003,GSM4412047,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.772060393,sheep
+GSM4412048,GSE147003,GSM4412048,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.785771447,sheep
+GSM4412049,GSE147003,GSM4412049,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.772113743,sheep
+GSM4412050,GSE147003,GSM4412050,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.783344003,sheep
+GSM4412051,GSE147003,GSM4412051,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.783370679,sheep
+GSM4412052,GSE147003,GSM4412052,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.779716176,sheep
+GSM4412053,GSE147003,GSM4412053,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.784517712,sheep
+GSM4412054,GSE147003,GSM4412054,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.787318609,sheep
+GSM4412055,GSE147003,GSM4412055,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.795641272,sheep
+GSM4412056,GSE147003,GSM4412056,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.785558045,sheep
+GSM4412057,GSE147003,GSM4412057,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.77040653,sheep
+GSM4412058,GSE147003,GSM4412058,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.805457746,sheep
+GSM4412059,GSE147003,GSM4412059,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.784411012,sheep
+GSM4412060,GSE147003,GSM4412060,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.794627614,sheep
+GSM4412061,GSE147003,GSM4412061,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.777502134,sheep
+GSM4412062,GSE147003,GSM4412062,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.767578959,sheep
+GSM4412063,GSE147003,GSM4412063,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.786331626,sheep
+GSM4412064,GSE147003,GSM4412064,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.753841229,sheep
+GSM4412065,GSE147003,GSM4412065,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.755975245,sheep
+GSM4412066,GSE147003,GSM4412066,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.752187367,sheep
+GSM4412067,GSE147003,GSM4412067,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.768325864,sheep
+GSM4412068,GSE147003,GSM4412068,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.778088988,sheep
+GSM4412069,GSE147003,GSM4412069,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.780569782,sheep
+GSM4412070,GSE147003,GSM4412070,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.754854887,sheep
+GSM4412071,GSE147003,GSM4412071,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.770966709,sheep
+GSM4412072,GSE147003,GSM4412072,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.77630175,sheep
+GSM4412073,GSE147003,GSM4412073,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.768752668,sheep
+GSM4412074,GSE147003,GSM4412074,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.797001707,sheep
+GSM4412075,GSE147003,GSM4412075,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.788892446,sheep
+GSM4412076,GSE147003,GSM4412076,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.824503841,sheep
+GSM4412077,GSE147003,GSM4412077,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.775368118,sheep
+GSM4412078,GSE147003,GSM4412078,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.805110969,sheep
+GSM4412079,GSE147003,GSM4412079,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.785051216,sheep
+GSM4412080,GSE147003,GSM4412080,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.787051857,sheep
+GSM4412081,GSE147003,GSM4412081,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.784224285,sheep
+GSM4412082,GSE147003,GSM4412082,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.815247546,sheep
+GSM4412083,GSE147003,GSM4412083,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.782570423,sheep
+GSM4412084,GSE147003,GSM4412084,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.80860542,sheep
+GSM4412085,GSE147003,GSM4412085,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.786224925,sheep
+GSM4412086,GSE147003,GSM4412086,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.826451131,sheep
+GSM4412087,GSE147003,GSM4412087,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.815274221,sheep
+GSM4412088,GSE147003,GSM4412088,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.81183312,sheep
+GSM4412089,GSE147003,GSM4412089,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.805644473,sheep
+GSM4412090,GSE147003,GSM4412090,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.799429151,sheep
+GSM4412091,GSE147003,GSM4412091,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.823303457,sheep
+GSM4412092,GSE147003,GSM4412092,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.82506402,sheep
+GSM4412093,GSE147003,GSM4412093,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.799135723,sheep
+GSM4412094,GSE147003,GSM4412094,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.8289586,sheep
+GSM4412095,GSE147003,GSM4412095,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.790412932,sheep
+GSM4412096,GSE147003,GSM4412096,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.792120145,sheep
+GSM4412097,GSE147003,GSM4412097,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.800736236,sheep
+GSM4412098,GSE147003,GSM4412098,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.805404396,sheep
+GSM4412099,GSE147003,GSM4412099,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.789612676,sheep
+GSM4412100,GSE147003,GSM4412100,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.802256722,sheep
+GSM4412101,GSE147003,GSM4412101,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.78886577,sheep
+GSM4412102,GSE147003,GSM4412102,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.797108408,sheep
+GSM4412103,GSE147003,GSM4412103,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.803537132,sheep
+GSM4412104,GSE147003,GSM4412104,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.785237943,sheep
+GSM4412105,GSE147003,GSM4412105,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.806284678,sheep
+GSM4412106,GSE147003,GSM4412106,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.818128468,sheep
+GSM4412107,GSE147003,GSM4412107,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.788012164,sheep
+GSM4412108,GSE147003,GSM4412108,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.806738156,sheep
+GSM4412109,GSE147003,GSM4412109,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.762350619,sheep
+GSM4412110,GSE147003,GSM4412110,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.757735809,sheep
+GSM4412111,GSE147003,GSM4412111,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.786438327,sheep
+GSM4412112,GSE147003,GSM4412112,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.788625694,sheep
+GSM4412113,GSE147003,GSM4412113,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.773420828,sheep
+GSM4412114,GSE147003,GSM4412114,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.7696863,sheep
+GSM4412115,GSE147003,GSM4412115,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.788252241,sheep
+GSM4412116,GSE147003,GSM4412116,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.801803244,sheep
+GSM4412117,GSE147003,GSM4412117,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.788065514,sheep
+GSM4412118,GSE147003,GSM4412118,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.76256402,sheep
+GSM4412119,GSE147003,GSM4412119,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.770086428,sheep
+GSM4412120,GSE147003,GSM4412120,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.794280837,sheep
+GSM4412121,GSE147003,GSM4412121,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.805591122,sheep
+GSM4412122,GSE147003,GSM4412122,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.804310713,sheep
+GSM4412123,GSE147003,GSM4412123,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.813406957,sheep
+GSM4412124,GSE147003,GSM4412124,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.810979513,sheep
+GSM4412125,GSE147003,GSM4412125,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.815034144,sheep
+GSM4412126,GSE147003,GSM4412126,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.814260563,sheep
+GSM4412127,GSE147003,GSM4412127,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.802790226,sheep
+GSM4412128,GSE147003,GSM4412128,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.809805805,sheep
+GSM4412129,GSE147003,GSM4412129,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.821302817,sheep
+GSM4412130,GSE147003,GSM4412130,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.809672429,sheep
+GSM4412131,GSE147003,GSM4412131,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.808018566,sheep
+GSM4412132,GSE147003,GSM4412132,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.81121959,sheep
+GSM4412133,GSE147003,GSM4412133,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.790439607,sheep
+GSM4412134,GSE147003,GSM4412134,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.816474605,sheep
+GSM4412135,GSE147003,GSM4412135,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.831225992,sheep
+GSM4412136,GSE147003,GSM4412136,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.830585787,sheep
+GSM4412137,GSE147003,GSM4412137,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.819915706,sheep
+GSM4412138,GSE147003,GSM4412138,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.822316475,sheep
+GSM4412139,GSE147003,GSM4412139,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.809485702,sheep
+GSM4412140,GSE147003,GSM4412140,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.807298335,sheep
+GSM4412141,GSE147003,GSM4412141,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.820769313,sheep
+GSM4412142,GSE147003,GSM4412142,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.821996372,sheep
+GSM4412143,GSE147003,GSM4412143,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.819142125,sheep
+GSM4412144,GSE147003,GSM4412144,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.81978233,sheep
+GSM4412145,GSE147003,GSM4412145,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.819328852,sheep
+GSM4412146,GSE147003,GSM4412146,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.812339949,sheep
+GSM4412147,GSE147003,GSM4412147,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.823997012,sheep
+GSM4412148,GSE147003,GSM4412148,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.813993811,sheep
+GSM4412149,GSE147003,GSM4412149,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.817568289,sheep
+GSM4412150,GSE147003,GSM4412150,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.81972898,sheep
+GSM4412151,GSE147003,GSM4412151,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.817514938,sheep
+GSM4412152,GSE147003,GSM4412152,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.820956039,sheep
+GSM4412153,GSE147003,GSM4412153,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.826584507,sheep
+GSM4412154,GSE147003,GSM4412154,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.828371746,sheep
+GSM4412155,GSE147003,GSM4412155,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.823863636,sheep
+GSM4412156,GSE147003,GSM4412156,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.820795988,sheep
+GSM4412157,GSE147003,GSM4412157,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.807138284,sheep
+GSM4412158,GSE147003,GSM4412158,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.800149381,sheep
+GSM4412159,GSE147003,GSM4412159,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.809779129,sheep
+GSM4412160,GSE147003,GSM4412160,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.796841656,sheep
+GSM4412161,GSE147003,GSM4412161,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.808231968,sheep
+GSM4412162,GSE147003,GSM4412162,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.795187793,sheep
+GSM4412163,GSE147003,GSM4412163,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.802816901,sheep
+GSM4412164,GSE147003,GSM4412164,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.80332373,sheep
+GSM4412165,GSE147003,GSM4412165,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.813486983,sheep
+GSM4412166,GSE147003,GSM4412166,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.769339522,sheep
+GSM4412167,GSE147003,GSM4412167,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.809352326,sheep
+GSM4412168,GSE147003,GSM4412168,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.779929577,sheep
+GSM4412169,GSE147003,GSM4412169,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.82172962,sheep
+GSM4412170,GSE147003,GSM4412170,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.828211694,sheep
+GSM4412171,GSE147003,GSM4412171,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.824770593,sheep
+GSM4412172,GSE147003,GSM4412172,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.830719163,sheep
+GSM4412173,GSE147003,GSM4412173,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.828318395,sheep
+GSM4412174,GSE147003,GSM4412174,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.816901408,sheep
+GSM4412175,GSE147003,GSM4412175,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.811192915,sheep
+GSM4412176,GSE147003,GSM4412176,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.826931285,sheep
+GSM4412177,GSE147003,GSM4412177,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.829172002,sheep
+GSM4412178,GSE147003,GSM4412178,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.820929364,sheep
+GSM4412179,GSE147003,GSM4412179,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.828718523,sheep
+GSM4412180,GSE147003,GSM4412180,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.817568289,sheep
+GSM4412181,GSE147003,GSM4412181,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.829065301,sheep
+GSM4412182,GSE147003,GSM4412182,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.833039906,sheep
+GSM4412183,GSE147003,GSM4412183,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.839201878,sheep
+GSM4412184,GSE147003,GSM4412184,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.842509603,sheep
+GSM4412185,GSE147003,GSM4412185,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.830479087,sheep
+GSM4412186,GSE147003,GSM4412186,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.834026889,sheep
+GSM4412187,GSE147003,GSM4412187,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.821596244,sheep
+GSM4412188,GSE147003,GSM4412188,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.836507682,sheep
+GSM4412189,GSE147003,GSM4412189,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.833253308,sheep
+GSM4412190,GSE147003,GSM4412190,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.840642339,sheep
+GSM4412191,GSE147003,GSM4412191,Ovis aries,9940,Blood,Female,Bovidae,Artiodactyla,Ovis aries,0.832559752,sheep
+GSM4412192,GSE147003,GSM4412192,Ovis aries,9940,Blood,Male,Bovidae,Artiodactyla,Ovis aries,0.83352006,sheep
+GSM5265475,GSE173330,GSM5265475,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.797748613,beluga whale
+GSM5265476,GSE173330,GSM5265476,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.811139565,beluga whale
+GSM5265477,GSE173330,GSM5265477,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.806471404,beluga whale
+GSM5265478,GSE173330,GSM5265478,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.812126547,beluga whale
+GSM5265479,GSE173330,GSM5265479,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.807378361,beluga whale
+GSM5265480,GSE173330,GSM5265480,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.808338668,beluga whale
+GSM5265481,GSE173330,GSM5265481,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.791239863,beluga whale
+GSM5265482,GSE173330,GSM5265482,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.802816901,beluga whale
+GSM5265483,GSE173330,GSM5265483,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.807351686,beluga whale
+GSM5265484,GSE173330,GSM5265484,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.818768673,beluga whale
+GSM5265525,GSE173330,GSM5265525,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.813860435,beluga whale
+GSM5265532,GSE173330,GSM5265532,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.81650128,beluga whale
+GSM5265539,GSE173330,GSM5265539,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.826104353,beluga whale
+GSM5265546,GSE173330,GSM5265546,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.816688007,beluga whale
+GSM5265552,GSE173330,GSM5265552,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.816021127,beluga whale
+GSM5265555,GSE173330,GSM5265555,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.815354247,beluga whale
+GSM5265556,GSE173330,GSM5265556,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.809245625,beluga whale
+GSM5265557,GSE173330,GSM5265557,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.810632736,beluga whale
+GSM5265558,GSE173330,GSM5265558,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.809645753,beluga whale
+GSM5265604,GSE173330,GSM5265604,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.824450491,beluga whale
+GSM5265605,GSE173330,GSM5265605,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.818928724,beluga whale
+GSM5265606,GSE173330,GSM5265606,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.838428297,beluga whale
+GSM5265634,GSE173330,GSM5265634,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.816181178,beluga whale
+GSM5265641,GSE173330,GSM5265641,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.812206573,beluga whale
+GSM5265642,GSE173330,GSM5265642,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.780276355,beluga whale
+GSM5265657,GSE173330,GSM5265657,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.422721938,beluga whale
+GSM5265658,GSE173330,GSM5265658,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.818635297,beluga whale
+GSM5265659,GSE173330,GSM5265659,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.803377081,beluga whale
+GSM5265660,GSE173330,GSM5265660,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.802550149,beluga whale
+GSM5265661,GSE173330,GSM5265661,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.781876867,beluga whale
+GSM5265663,GSE173330,GSM5265663,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.434779129,beluga whale
+GSM5265673,GSE173330,GSM5265673,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.713161545,beluga whale
+GSM5265674,GSE173330,GSM5265674,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.63484315,beluga whale
+GSM5265675,GSE173330,GSM5265675,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.778329065,beluga whale
+GSM5265676,GSE173330,GSM5265676,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.714148528,beluga whale
+GSM5265677,GSE173330,GSM5265677,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.714628681,beluga whale
+GSM5265717,GSE173330,GSM5265717,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.744238156,beluga whale
+GSM5265718,GSE173330,GSM5265718,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.798922322,beluga whale
+GSM5265719,GSE173330,GSM5265719,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.682405036,beluga whale
+GSM5265720,GSE173330,GSM5265720,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.734234955,beluga whale
+GSM5265721,GSE173330,GSM5265721,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.765711694,beluga whale
+GSM5265746,GSE173330,GSM5265746,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.598484848,beluga whale
+GSM5265747,GSE173330,GSM5265747,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.821382843,beluga whale
+GSM5265748,GSE173330,GSM5265748,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.739970124,beluga whale
+GSM5265749,GSE173330,GSM5265749,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.687900128,beluga whale
+GSM5265750,GSE173330,GSM5265750,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.760830132,beluga whale
+GSM5265751,GSE173330,GSM5265751,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.441741357,beluga whale
+GSM5265779,GSE173330,GSM5265779,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.835040546,beluga whale
+GSM5265780,GSE173330,GSM5265780,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.818181818,beluga whale
+GSM5265781,GSE173330,GSM5265781,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.81578105,beluga whale
+GSM5265782,GSE173330,GSM5265782,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.818955399,beluga whale
+GSM5265783,GSE173330,GSM5265783,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.825864277,beluga whale
+GSM5265784,GSE173330,GSM5265784,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.829278703,beluga whale
+GSM5265785,GSE173330,GSM5265785,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.819889031,beluga whale
+GSM5265786,GSE173330,GSM5265786,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.8223965,beluga whale
+GSM5265787,GSE173330,GSM5265787,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.816714682,beluga whale
+GSM5265788,GSE173330,GSM5265788,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.823410158,beluga whale
+GSM5265797,GSE173330,GSM5265797,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.819488903,beluga whale
+GSM5265798,GSE173330,GSM5265798,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.826371105,beluga whale
+GSM5265799,GSE173330,GSM5265799,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.829145327,beluga whale
+GSM5265800,GSE173330,GSM5265800,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.823916987,beluga whale
+GSM5265801,GSE173330,GSM5265801,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.819969057,beluga whale
+GSM5265802,GSE173330,GSM5265802,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.800282757,beluga whale
+GSM5265803,GSE173330,GSM5265803,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.819755655,beluga whale
+GSM5265804,GSE173330,GSM5265804,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.820715962,beluga whale
+GSM5265805,GSE173330,GSM5265805,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.826824584,beluga whale
+GSM5265806,GSE173330,GSM5265806,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.821036065,beluga whale
+GSM5265807,GSE173330,GSM5265807,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.817594964,beluga whale
+GSM5265808,GSE173330,GSM5265808,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.819382202,beluga whale
+GSM5265809,GSE173330,GSM5265809,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.824690568,beluga whale
+GSM5265810,GSE173330,GSM5265810,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.825250747,beluga whale
+GSM5265811,GSE173330,GSM5265811,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.832026248,beluga whale
+GSM5265812,GSE173330,GSM5265812,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.829172002,beluga whale
+GSM5265815,GSE173330,GSM5265815,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.798548869,beluga whale
+GSM5265816,GSE173330,GSM5265816,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.835147247,beluga whale
+GSM5265817,GSE173330,GSM5265817,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.76901942,beluga whale
+GSM5265818,GSE173330,GSM5265818,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.817568289,beluga whale
+GSM5265819,GSE173330,GSM5265819,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.819942382,beluga whale
+GSM5265820,GSE173330,GSM5265820,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.83151942,beluga whale
+GSM5265838,GSE173330,GSM5265838,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.752267392,beluga whale
+GSM5265839,GSE173330,GSM5265839,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.815194195,beluga whale
+GSM5265840,GSE173330,GSM5265840,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.697503201,beluga whale
+GSM5265841,GSE173330,GSM5265841,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.821302817,beluga whale
+GSM5265842,GSE173330,GSM5265842,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.806738156,beluga whale
+GSM5265843,GSE173330,GSM5265843,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.719776995,beluga whale
+GSM5265844,GSE173330,GSM5265844,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.781503414,beluga whale
+GSM5265872,GSE173330,GSM5265872,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.828638498,beluga whale
+GSM5265873,GSE173330,GSM5265873,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.825090696,beluga whale
+GSM5265874,GSE173330,GSM5265874,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.822636577,beluga whale
+GSM5265875,GSE173330,GSM5265875,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.829758856,beluga whale
+GSM5265876,GSE173330,GSM5265876,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.83624093,beluga whale
+GSM5265877,GSE173330,GSM5265877,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.838881776,beluga whale
+GSM5265878,GSE173330,GSM5265878,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.836294281,beluga whale
+GSM5265882,GSE173330,GSM5265882,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.794627614,beluga whale
+GSM5265973,GSE173330,GSM5265973,Delphinapterus leucas,9749,Blood,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.815354247,beluga whale
+GSM5265974,GSE173330,GSM5265974,Delphinapterus leucas,9749,Skin,Male,Monodontidae,Artiodactyla,Delphinapterus leucas,0.611475672,beluga whale
+GSM5265975,GSE173330,GSM5265975,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.807351686,beluga whale
+GSM5265976,GSE173330,GSM5265976,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.729433419,beluga whale
+GSM5265977,GSE173330,GSM5265977,Delphinapterus leucas,9749,Blood,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.815434272,beluga whale
+GSM5265978,GSE173330,GSM5265978,Delphinapterus leucas,9749,Skin,Female,Monodontidae,Artiodactyla,Delphinapterus leucas,0.638257576,beluga whale
+GSM4411953,GSE147002,GSM4411953,Mus musculus,10090,Blood,Female,Muridae,Rodentia,Mus musculus,0.768992744,house mouse
+GSM4411954,GSE147002,GSM4411954,Mus musculus,10090,Blood,Female,Muridae,Rodentia,Mus musculus,0.762217243,house mouse
+GSM4411955,GSE147002,GSM4411955,Mus musculus,10090,Blood,Male,Muridae,Rodentia,Mus musculus,0.767392232,house mouse
+GSM4411956,GSE147002,GSM4411956,Mus musculus,10090,Blood,Male,Muridae,Rodentia,Mus musculus,0.767178831,house mouse
+GSM4411957,GSE147002,GSM4411957,Mus musculus,10090,Blood,Female,Muridae,Rodentia,Mus musculus,0.776541827,house mouse
+GSM4411958,GSE147002,GSM4411958,Mus musculus,10090,Blood,Male,Muridae,Rodentia,Mus musculus,0.736182245,house mouse
+GSM4411959,GSE147002,GSM4411959,Mus musculus,10090,Blood,Male,Muridae,Rodentia,Mus musculus,0.752507469,house mouse
+GSM4411960,GSE147002,GSM4411960,Mus musculus,10090,Blood,Female,Muridae,Rodentia,Mus musculus,0.774861289,house mouse
+GSM4411961,GSE147002,GSM4411961,Mus musculus,10090,Blood,Male,Muridae,Rodentia,Mus musculus,0.758989543,house mouse
+GSM4411962,GSE147002,GSM4411962,Mus musculus,10090,Blood,Male,Muridae,Rodentia,Mus musculus,0.763657704,house mouse
+GSM4411963,GSE147002,GSM4411963,Mus musculus,10090,Blood,Male,Muridae,Rodentia,Mus musculus,0.765711694,house mouse
+GSM4411964,GSE147002,GSM4411964,Mus musculus,10090,Blood,Female,Muridae,Rodentia,Mus musculus,0.770566581,house mouse
+GSM4411965,GSE147002,GSM4411965,Mus musculus,10090,Blood,Female,Muridae,Rodentia,Mus musculus,0.756161972,house mouse
+GSM4411966,GSE147002,GSM4411966,Mus musculus,10090,Blood,Female,Muridae,Rodentia,Mus musculus,0.775314767,house mouse
+GSM4411967,GSE147002,GSM4411967,Mus musculus,10090,Blood,Male,Muridae,Rodentia,Mus musculus,0.768032437,house mouse
+GSM4411968,GSE147002,GSM4411968,Mus musculus,10090,Blood,Female,Muridae,Rodentia,Mus musculus,0.767765685,house mouse
+GSM4411969,GSE147002,GSM4411969,Mus musculus,10090,Liver,Female,Muridae,Rodentia,Mus musculus,0.77430111,house mouse
+GSM4411970,GSE147002,GSM4411970,Mus musculus,10090,Liver,Male,Muridae,Rodentia,Mus musculus,0.771713615,house mouse
+GSM4411971,GSE147002,GSM4411971,Mus musculus,10090,Liver,Female,Muridae,Rodentia,Mus musculus,0.770299829,house mouse
+GSM4411972,GSE147002,GSM4411972,Mus musculus,10090,Liver,Male,Muridae,Rodentia,Mus musculus,0.767232181,house mouse
+GSM4411973,GSE147002,GSM4411973,Mus musculus,10090,Liver,Female,Muridae,Rodentia,Mus musculus,0.767392232,house mouse
+GSM4411974,GSE147002,GSM4411974,Mus musculus,10090,Liver,Male,Muridae,Rodentia,Mus musculus,0.776435126,house mouse
+GSM4411975,GSE147002,GSM4411975,Mus musculus,10090,Liver,Male,Muridae,Rodentia,Mus musculus,0.769526248,house mouse
+GSM4411976,GSE147002,GSM4411976,Mus musculus,10090,Liver,Female,Muridae,Rodentia,Mus musculus,0.771420188,house mouse
+GSM4411977,GSE147002,GSM4411977,Mus musculus,10090,Cortex,Female,Muridae,Rodentia,Mus musculus,0.769179471,house mouse
+GSM4411978,GSE147002,GSM4411978,Mus musculus,10090,Cortex,Male,Muridae,Rodentia,Mus musculus,0.772753948,house mouse
+GSM4411979,GSE147002,GSM4411979,Mus musculus,10090,Cortex,Male,Muridae,Rodentia,Mus musculus,0.754961588,house mouse
+GSM4411980,GSE147002,GSM4411980,Mus musculus,10090,Cortex,Female,Muridae,Rodentia,Mus musculus,0.771473538,house mouse
+GSM4411981,GSE147002,GSM4411981,Mus musculus,10090,Cortex,Male,Muridae,Rodentia,Mus musculus,0.767392232,house mouse
+GSM4411982,GSE147002,GSM4411982,Mus musculus,10090,Cortex,Male,Muridae,Rodentia,Mus musculus,0.754934913,house mouse
+GSM4411983,GSE147002,GSM4411983,Mus musculus,10090,Cortex,Male,Muridae,Rodentia,Mus musculus,0.763390952,house mouse
+GSM4411984,GSE147002,GSM4411984,Mus musculus,10090,Cortex,Female,Muridae,Rodentia,Mus musculus,0.771633589,house mouse
+GSM4411985,GSE147002,GSM4411985,Mus musculus,10090,Cortex,Female,Muridae,Rodentia,Mus musculus,0.783904183,house mouse
+GSM4411986,GSE147002,GSM4411986,Mus musculus,10090,Cortex,Male,Muridae,Rodentia,Mus musculus,0.781850192,house mouse
+GSM4411987,GSE147002,GSM4411987,Mus musculus,10090,Cortex,Male,Muridae,Rodentia,Mus musculus,0.779022621,house mouse
+GSM4411988,GSE147002,GSM4411988,Mus musculus,10090,Cortex,Female,Muridae,Rodentia,Mus musculus,0.768779343,house mouse
+GSM4411989,GSE147002,GSM4411989,Mus musculus,10090,Cortex,Male,Muridae,Rodentia,Mus musculus,0.769499573,house mouse
+GSM4411990,GSE147002,GSM4411990,Mus musculus,10090,Cortex,Female,Muridae,Rodentia,Mus musculus,0.761977166,house mouse
+GSM4411991,GSE147002,GSM4411991,Mus musculus,10090,Cortex,Female,Muridae,Rodentia,Mus musculus,0.790466283,house mouse
+GSM4411992,GSE147002,GSM4411992,Mus musculus,10090,Cortex,Female,Muridae,Rodentia,Mus musculus,0.795854673,house mouse
+GSM4411993,GSE147002,GSM4411993,Mus musculus,10090,Striatum,Female,Muridae,Rodentia,Mus musculus,0.790172855,house mouse
+GSM4411994,GSE147002,GSM4411994,Mus musculus,10090,Striatum,Male,Muridae,Rodentia,Mus musculus,0.779849552,house mouse
+GSM4411995,GSE147002,GSM4411995,Mus musculus,10090,Striatum,Female,Muridae,Rodentia,Mus musculus,0.765951771,house mouse
+GSM4411996,GSE147002,GSM4411996,Mus musculus,10090,Striatum,Female,Muridae,Rodentia,Mus musculus,0.771846991,house mouse
+GSM4411997,GSE147002,GSM4411997,Mus musculus,10090,Striatum,Male,Muridae,Rodentia,Mus musculus,0.784837815,house mouse
+GSM4411998,GSE147002,GSM4411998,Mus musculus,10090,Striatum,Female,Muridae,Rodentia,Mus musculus,0.787852113,house mouse
+GSM4411999,GSE147002,GSM4411999,Mus musculus,10090,Striatum,Male,Muridae,Rodentia,Mus musculus,0.787158557,house mouse
+GSM4412000,GSE147002,GSM4412000,Mus musculus,10090,Striatum,Male,Muridae,Rodentia,Mus musculus,0.782943875,house mouse
+GSM4412001,GSE147002,GSM4412001,Mus musculus,10090,Striatum,Male,Muridae,Rodentia,Mus musculus,0.782223645,house mouse
+GSM4412002,GSE147002,GSM4412002,Mus musculus,10090,Striatum,Female,Muridae,Rodentia,Mus musculus,0.785611396,house mouse
+GSM4412003,GSE147002,GSM4412003,Mus musculus,10090,Striatum,Male,Muridae,Rodentia,Mus musculus,0.787158557,house mouse
+GSM4412004,GSE147002,GSM4412004,Mus musculus,10090,Striatum,Male,Muridae,Rodentia,Mus musculus,0.78481114,house mouse
+GSM4412005,GSE147002,GSM4412005,Mus musculus,10090,Striatum,Female,Muridae,Rodentia,Mus musculus,0.793533931,house mouse
+GSM4412006,GSE147002,GSM4412006,Mus musculus,10090,Striatum,Female,Muridae,Rodentia,Mus musculus,0.776435126,house mouse
+GSM4412007,GSE147002,GSM4412007,Mus musculus,10090,Striatum,Male,Muridae,Rodentia,Mus musculus,0.761737089,house mouse
+GSM4412008,GSE147002,GSM4412008,Mus musculus,10090,Striatum,Female,Muridae,Rodentia,Mus musculus,0.768299189,house mouse
+GSM4412009,GSE147002,GSM4412009,Mus musculus,10090,Cerebellum,Female,Muridae,Rodentia,Mus musculus,0.805004268,house mouse
+GSM4412010,GSE147002,GSM4412010,Mus musculus,10090,Cerebellum,Male,Muridae,Rodentia,Mus musculus,0.790039479,house mouse
+GSM4412011,GSE147002,GSM4412011,Mus musculus,10090,Cerebellum,Female,Muridae,Rodentia,Mus musculus,0.798628895,house mouse
+GSM4412012,GSE147002,GSM4412012,Mus musculus,10090,Cerebellum,Male,Muridae,Rodentia,Mus musculus,0.78819889,house mouse
+GSM4412013,GSE147002,GSM4412013,Mus musculus,10090,Cerebellum,Male,Muridae,Rodentia,Mus musculus,0.786705079,house mouse
+GSM4412014,GSE147002,GSM4412014,Mus musculus,10090,Cerebellum,Male,Muridae,Rodentia,Mus musculus,0.786891805,house mouse
+GSM4412015,GSE147002,GSM4412015,Mus musculus,10090,Cerebellum,Male,Muridae,Rodentia,Mus musculus,0.783824157,house mouse
+GSM4412016,GSE147002,GSM4412016,Mus musculus,10090,Cerebellum,Male,Muridae,Rodentia,Mus musculus,0.804710841,house mouse
+GSM4412017,GSE147002,GSM4412017,Mus musculus,10090,Cerebellum,Female,Muridae,Rodentia,Mus musculus,0.807511737,house mouse
+GSM4412018,GSE147002,GSM4412018,Mus musculus,10090,Cerebellum,Female,Muridae,Rodentia,Mus musculus,0.808311993,house mouse
+GSM4412019,GSE147002,GSM4412019,Mus musculus,10090,Cerebellum,Female,Muridae,Rodentia,Mus musculus,0.79804204,house mouse
+GSM4412020,GSE147002,GSM4412020,Mus musculus,10090,Cerebellum,Female,Muridae,Rodentia,Mus musculus,0.801536492,house mouse
+GSM4412021,GSE147002,GSM4412021,Mus musculus,10090,Cerebellum,Male,Muridae,Rodentia,Mus musculus,0.803590482,house mouse
+GSM4412022,GSE147002,GSM4412022,Mus musculus,10090,Cerebellum,Male,Muridae,Rodentia,Mus musculus,0.796174776,house mouse
+GSM4412023,GSE147002,GSM4412023,Mus musculus,10090,Cerebellum,Female,Muridae,Rodentia,Mus musculus,0.80455079,house mouse
+GSM4412024,GSE147002,GSM4412024,Mus musculus,10090,Cerebellum,Female,Muridae,Rodentia,Mus musculus,0.799135723,house mouse
+GSM5265845,GSE173330,GSM5265845,Phocoena phocoena,9742,Skin,Female,Phocoenidae,Artiodactyla,Phocoena phocoena,0.839682032,harbor porpoise
+GSM5265879,GSE173330,GSM5265879,Phocoena phocoena,9742,Blood,Female,Phocoenidae,Artiodactyla,Phocoena phocoena,0.828851899,harbor porpoise
+GSM4997095,GSE164127,GSM4997095,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.802710201,small flying fox
+GSM4997096,GSE164127,GSM4997096,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.810099232,large flying fox
+GSM4997097,GSE164127,GSM4997097,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.803083653,small flying fox
+GSM4997098,GSE164127,GSM4997098,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.802976953,large flying fox
+GSM4997099,GSE164127,GSM4997099,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.822423175,small flying fox
+GSM4997100,GSE164127,GSM4997100,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.803377081,large flying fox
+GSM4997101,GSE164127,GSM4997101,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.806151302,small flying fox
+GSM4997102,GSE164127,GSM4997102,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.758082586,large flying fox
+GSM4997103,GSE164127,GSM4997103,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.815514298,large flying fox
+GSM4997104,GSE164127,GSM4997104,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.8092723,small flying fox
+GSM4997105,GSE164127,GSM4997105,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.819435553,large flying fox
+GSM4997106,GSE164127,GSM4997106,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.799055698,small flying fox
+GSM4997107,GSE164127,GSM4997107,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.814954119,large flying fox
+GSM4997108,GSE164127,GSM4997108,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.780649808,small flying fox
+GSM4997109,GSE164127,GSM4997109,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.819995732,large flying fox
+GSM4997110,GSE164127,GSM4997110,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.819435553,large flying fox
+GSM4997111,GSE164127,GSM4997111,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.794014085,small flying fox
+GSM4997112,GSE164127,GSM4997112,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.793880708,large flying fox
+GSM4997113,GSE164127,GSM4997113,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.812099872,small flying fox
+GSM4997114,GSE164127,GSM4997114,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.804817542,large flying fox
+GSM4997115,GSE164127,GSM4997115,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.811859795,small flying fox
+GSM4997116,GSE164127,GSM4997116,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.811272941,large flying fox
+GSM4997117,GSE164127,GSM4997117,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.813620359,small flying fox
+GSM4997118,GSE164127,GSM4997118,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.821196116,large flying fox
+GSM4997119,GSE164127,GSM4997119,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.81711481,large flying fox
+GSM4997120,GSE164127,GSM4997120,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.791399915,small flying fox
+GSM4997121,GSE164127,GSM4997121,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.82701131,large flying fox
+GSM4997122,GSE164127,GSM4997122,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.816527956,small flying fox
+GSM4997123,GSE164127,GSM4997123,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.820422535,large flying fox
+GSM4997124,GSE164127,GSM4997124,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.80126974,small flying fox
+GSM4997125,GSE164127,GSM4997125,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.799642552,large flying fox
+GSM4997126,GSE164127,GSM4997126,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.807244985,large flying fox
+GSM4997127,GSE164127,GSM4997127,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.793587281,small flying fox
+GSM4997128,GSE164127,GSM4997128,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.82306338,large flying fox
+GSM4997129,GSE164127,GSM4997129,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.826771233,small flying fox
+GSM4997130,GSE164127,GSM4997130,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.81711481,large flying fox
+GSM4997131,GSE164127,GSM4997131,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.795081093,small flying fox
+GSM4997132,GSE164127,GSM4997132,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.795561246,large flying fox
+GSM4997133,GSE164127,GSM4997133,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.8059379,small flying fox
+GSM4997134,GSE164127,GSM4997134,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.807591763,large flying fox
+GSM4997135,GSE164127,GSM4997135,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.816181178,large flying fox
+GSM4997136,GSE164127,GSM4997136,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.735942168,small flying fox
+GSM4997137,GSE164127,GSM4997137,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.801349765,large flying fox
+GSM4997138,GSE164127,GSM4997138,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.800122706,small flying fox
+GSM4997139,GSE164127,GSM4997139,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.800229407,large flying fox
+GSM4997140,GSE164127,GSM4997140,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.670081093,small flying fox
+GSM4997141,GSE164127,GSM4997141,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.813727059,large flying fox
+GSM4997142,GSE164127,GSM4997142,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.813513658,large flying fox
+GSM4997143,GSE164127,GSM4997143,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.807965216,small flying fox
+GSM4997144,GSE164127,GSM4997144,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.80988583,large flying fox
+GSM4997145,GSE164127,GSM4997145,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.814794067,small flying fox
+GSM4997146,GSE164127,GSM4997146,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.808098592,large flying fox
+GSM4997147,GSE164127,GSM4997147,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.810125907,small flying fox
+GSM4997148,GSE164127,GSM4997148,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.81177977,large flying fox
+GSM4997149,GSE164127,GSM4997149,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.791639991,small flying fox
+GSM4997150,GSE164127,GSM4997150,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.814313914,large flying fox
+GSM4997151,GSE164127,GSM4997151,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.818075117,large flying fox
+GSM4997152,GSE164127,GSM4997152,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.518325864,small flying fox
+GSM4997153,GSE164127,GSM4997153,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.804710841,large flying fox
+GSM4997154,GSE164127,GSM4997154,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.792653649,small flying fox
+GSM4997155,GSE164127,GSM4997155,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.822689927,large flying fox
+GSM4997156,GSE164127,GSM4997156,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.796388178,small flying fox
+GSM4997157,GSE164127,GSM4997157,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.813273581,large flying fox
+GSM4997158,GSE164127,GSM4997158,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.823490184,large flying fox
+GSM4997159,GSE164127,GSM4997159,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.820715962,small flying fox
+GSM4997160,GSE164127,GSM4997160,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.813060179,large flying fox
+GSM4997161,GSE164127,GSM4997161,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.810259283,small flying fox
+GSM4997162,GSE164127,GSM4997162,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.801349765,large flying fox
+GSM4997163,GSE164127,GSM4997163,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.817141485,small flying fox
+GSM4997164,GSE164127,GSM4997164,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.825357448,large flying fox
+GSM4997165,GSE164127,GSM4997165,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.812073197,small flying fox
+GSM4997166,GSE164127,GSM4997166,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.794440888,large flying fox
+GSM4997167,GSE164127,GSM4997167,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.806151302,large flying fox
+GSM4997168,GSE164127,GSM4997168,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.769579599,small flying fox
+GSM4997169,GSE164127,GSM4997169,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.826237729,large flying fox
+GSM4997170,GSE164127,GSM4997170,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.811593043,small flying fox
+GSM4997171,GSE164127,GSM4997171,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.813460307,large flying fox
+GSM4997172,GSE164127,GSM4997172,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.804737516,small flying fox
+GSM4997173,GSE164127,GSM4997173,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.806364703,large flying fox
+GSM4997174,GSE164127,GSM4997174,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.814954119,large flying fox
+GSM4997175,GSE164127,GSM4997175,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.810125907,small flying fox
+GSM4997176,GSE164127,GSM4997176,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.799002347,large flying fox
+GSM4997177,GSE164127,GSM4997177,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.809058899,small flying fox
+GSM4997178,GSE164127,GSM4997178,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.816021127,large flying fox
+GSM4997179,GSE164127,GSM4997179,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.815194195,small flying fox
+GSM4997180,GSE164127,GSM4997180,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.827278062,large flying fox
+GSM4997181,GSE164127,GSM4997181,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.822183099,small flying fox
+GSM4997182,GSE164127,GSM4997182,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.834266965,large flying fox
+GSM4997183,GSE164127,GSM4997183,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.81639458,large flying fox
+GSM4997184,GSE164127,GSM4997184,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.797241784,small flying fox
+GSM4997185,GSE164127,GSM4997185,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.815754375,large flying fox
+GSM4997186,GSE164127,GSM4997186,Pteropus hypomelanus,9405,Skin,Female,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.826904609,small flying fox
+GSM4997187,GSE164127,GSM4997187,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.833813487,large flying fox
+GSM4997188,GSE164127,GSM4997188,Pteropus hypomelanus,9405,Skin,Male,Pteropodidae,Chiroptera,Pteropus hypomelanus,0.81121959,small flying fox
+GSM4997189,GSE164127,GSM4997189,Pteropus vampyrus,132908,Skin,Male,Pteropodidae,Chiroptera,Pteropus vampyrus,0.816928084,large flying fox
+GSM4997190,GSE164127,GSM4997190,Pteropus vampyrus,132908,Skin,Female,Pteropodidae,Chiroptera,Pteropus vampyrus,0.812820102,large flying fox
+GSM4997384,GSE164127,GSM4997384,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.796948357,Rodriguez flying fox
+GSM4997389,GSE164127,GSM4997389,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.799402475,straw-colored fruit bat
+GSM4997391,GSE164127,GSM4997391,Eidolon helvum,77214,Skin,Male,Pteropodidae,Chiroptera,Eidolon helvum,0.815007469,straw-colored fruit bat
+GSM4997393,GSE164127,GSM4997393,Pteropus rodricensis,77216,Skin,Male,Pteropodidae,Chiroptera,Pteropus rodricensis,0.783450704,Rodriguez flying fox
+GSM4997394,GSE164127,GSM4997394,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.803297055,straw-colored fruit bat
+GSM4997396,GSE164127,GSM4997396,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.798628895,straw-colored fruit bat
+GSM4997399,GSE164127,GSM4997399,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.813860435,Rodriguez flying fox
+GSM4997405,GSE164127,GSM4997405,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.808712121,straw-colored fruit bat
+GSM4997406,GSE164127,GSM4997406,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.796014725,straw-colored fruit bat
+GSM4997408,GSE164127,GSM4997408,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.789372599,straw-colored fruit bat
+GSM4997410,GSE164127,GSM4997410,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.771340162,Rodriguez flying fox
+GSM4997411,GSE164127,GSM4997411,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.796254802,Rodriguez flying fox
+GSM4997413,GSE164127,GSM4997413,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.792787025,Rodriguez flying fox
+GSM4997417,GSE164127,GSM4997417,Pteropus rodricensis,77216,Skin,Male,Pteropodidae,Chiroptera,Pteropus rodricensis,0.795614597,Rodriguez flying fox
+GSM4997421,GSE164127,GSM4997421,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.806418054,straw-colored fruit bat
+GSM4997422,GSE164127,GSM4997422,Eidolon helvum,77214,Skin,Male,Pteropodidae,Chiroptera,Eidolon helvum,0.788412292,straw-colored fruit bat
+GSM4997423,GSE164127,GSM4997423,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.810152582,straw-colored fruit bat
+GSM4997425,GSE164127,GSM4997425,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.817968417,straw-colored fruit bat
+GSM4997426,GSE164127,GSM4997426,Pteropus rodricensis,77216,Skin,Male,Pteropodidae,Chiroptera,Pteropus rodricensis,0.811192915,Rodriguez flying fox
+GSM4997427,GSE164127,GSM4997427,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.794334187,Rodriguez flying fox
+GSM4997430,GSE164127,GSM4997430,Pteropus rodricensis,77216,Skin,Male,Pteropodidae,Chiroptera,Pteropus rodricensis,0.775928297,Rodriguez flying fox
+GSM4997432,GSE164127,GSM4997432,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.795214469,Rodriguez flying fox
+GSM4997435,GSE164127,GSM4997435,Eidolon helvum,77214,Skin,Male,Pteropodidae,Chiroptera,Eidolon helvum,0.790999787,straw-colored fruit bat
+GSM4997440,GSE164127,GSM4997440,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.812846778,straw-colored fruit bat
+GSM4997443,GSE164127,GSM4997443,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.784090909,straw-colored fruit bat
+GSM4997444,GSE164127,GSM4997444,Pteropus rodricensis,77216,Skin,Male,Pteropodidae,Chiroptera,Pteropus rodricensis,0.789052497,Rodriguez flying fox
+GSM4997445,GSE164127,GSM4997445,Eidolon helvum,77214,Skin,Male,Pteropodidae,Chiroptera,Eidolon helvum,0.774007682,straw-colored fruit bat
+GSM4997447,GSE164127,GSM4997447,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.808338668,straw-colored fruit bat
+GSM4997457,GSE164127,GSM4997457,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.801056338,straw-colored fruit bat
+GSM4997458,GSE164127,GSM4997458,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.758909518,Rodriguez flying fox
+GSM4997464,GSE164127,GSM4997464,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.807618438,straw-colored fruit bat
+GSM4997465,GSE164127,GSM4997465,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.766031797,Rodriguez flying fox
+GSM4997468,GSE164127,GSM4997468,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.773794281,Rodriguez flying fox
+GSM4997470,GSE164127,GSM4997470,Eidolon helvum,77214,Skin,Male,Pteropodidae,Chiroptera,Eidolon helvum,0.688086854,straw-colored fruit bat
+GSM4997473,GSE164127,GSM4997473,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.808418694,straw-colored fruit bat
+GSM4997475,GSE164127,GSM4997475,Pteropus rodricensis,77216,Skin,Male,Pteropodidae,Chiroptera,Pteropus rodricensis,0.803723858,Rodriguez flying fox
+GSM4997477,GSE164127,GSM4997477,Eidolon helvum,77214,Skin,Male,Pteropodidae,Chiroptera,Eidolon helvum,0.801163039,straw-colored fruit bat
+GSM4997511,GSE164127,GSM4997511,Cynopterus brachyotis,58060,Skin,Male,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.754801536,lesser short-nosed fruit bat
+GSM4997513,GSE164127,GSM4997513,Cynopterus brachyotis,58060,Skin,Male,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.743971404,lesser short-nosed fruit bat
+GSM4997514,GSE164127,GSM4997514,Cynopterus brachyotis,58060,Skin,Male,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.706172642,lesser short-nosed fruit bat
+GSM4997515,GSE164127,GSM4997515,Cynopterus brachyotis,58060,Skin,Female,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.694328852,lesser short-nosed fruit bat
+GSM4997517,GSE164127,GSM4997517,Cynopterus brachyotis,58060,Skin,Female,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.708706786,lesser short-nosed fruit bat
+GSM4997518,GSE164127,GSM4997518,Cynopterus brachyotis,58060,Skin,Female,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.722897994,lesser short-nosed fruit bat
+GSM4997520,GSE164127,GSM4997520,Cynopterus brachyotis,58060,Skin,Female,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.68227166,lesser short-nosed fruit bat
+GSM4997522,GSE164127,GSM4997522,Cynopterus brachyotis,58060,Skin,Female,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.686272941,lesser short-nosed fruit bat
+GSM4997523,GSE164127,GSM4997523,Cynopterus brachyotis,58060,Skin,Female,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.728953265,lesser short-nosed fruit bat
+GSM4997525,GSE164127,GSM4997525,Cynopterus brachyotis,58060,Skin,Male,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.735328638,lesser short-nosed fruit bat
+GSM4997527,GSE164127,GSM4997527,Cynopterus brachyotis,58060,Skin,Male,Pteropodidae,Chiroptera,Cynopterus brachyotis,0.685766112,lesser short-nosed fruit bat
+GSM4997620,GSE164127,GSM4997620,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.765231541,
+GSM4997622,GSE164127,GSM4997622,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.769099445,
+GSM4997624,GSE164127,GSM4997624,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.765471618,
+GSM4997629,GSE164127,GSM4997629,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.781370038,
+GSM4997630,GSE164127,GSM4997630,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.745518566,
+GSM4997633,GSE164127,GSM4997633,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.793880708,
+GSM4997635,GSE164127,GSM4997635,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.774007682,
+GSM4997638,GSE164127,GSM4997638,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.725485489,
+GSM4997639,GSE164127,GSM4997639,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.783797482,
+GSM4997643,GSE164127,GSM4997643,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.773367478,
+GSM4997644,GSE164127,GSM4997644,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.761817115,
+GSM4997645,GSE164127,GSM4997645,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.757655783,
+GSM4997650,GSE164127,GSM4997650,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.778649168,
+GSM4997652,GSE164127,GSM4997652,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.782357021,
+GSM4997653,GSE164127,GSM4997653,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.760323303,
+GSM4997657,GSE164127,GSM4997657,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.780703158,
+GSM4997661,GSE164127,GSM4997661,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.755308365,
+GSM4997663,GSE164127,GSM4997663,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.758215962,
+GSM4997665,GSE164127,GSM4997665,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.751493811,
+GSM4997668,GSE164127,GSM4997668,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.782223645,
+GSM4997669,GSE164127,GSM4997669,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.770753308,
+GSM4997672,GSE164127,GSM4997672,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.776621852,
+GSM4997673,GSE164127,GSM4997673,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.725725566,
+GSM4997674,GSE164127,GSM4997674,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.782543747,
+GSM4997675,GSE164127,GSM4997675,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.770246479,
+GSM4997677,GSE164127,GSM4997677,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.75722898,
+GSM4997679,GSE164127,GSM4997679,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.673762271,
+GSM4997681,GSE164127,GSM4997681,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.775208067,
+GSM4997688,GSE164127,GSM4997688,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.799215749,
+GSM4997689,GSE164127,GSM4997689,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.787585361,
+GSM4997690,GSE164127,GSM4997690,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.760456679,
+GSM4997691,GSE164127,GSM4997691,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.779102646,
+GSM4997693,GSE164127,GSM4997693,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.787398634,
+GSM4997695,GSE164127,GSM4997695,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.792680324,
+GSM4997696,GSE164127,GSM4997696,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.769446223,
+GSM4997697,GSE164127,GSM4997697,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.782730474,
+GSM4997698,GSE164127,GSM4997698,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.782063594,
+GSM4997700,GSE164127,GSM4997700,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.78942595,
+GSM4997701,GSE164127,GSM4997701,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.761683739,
+GSM4997703,GSE164127,GSM4997703,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.785718096,
+GSM4997704,GSE164127,GSM4997704,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.79404076,
+GSM4997705,GSE164127,GSM4997705,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.618331199,
+GSM4997706,GSE164127,GSM4997706,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.781103286,
+GSM4997708,GSE164127,GSM4997708,Pteropus pumilus,161598,Skin,Female,Pteropodidae,Chiroptera,Pteropus pumilus,0.777848912,
+GSM4997710,GSE164127,GSM4997710,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.793533931,
+GSM4997712,GSE164127,GSM4997712,Pteropus pumilus,161598,Skin,Male,Pteropodidae,Chiroptera,Pteropus pumilus,0.798575544,
+GSM4997749,GSE164127,GSM4997749,Eidolon helvum,77214,Skin,Male,Pteropodidae,Chiroptera,Eidolon helvum,0.79214682,straw-colored fruit bat
+GSM4997762,GSE164127,GSM4997762,Eidolon helvum,77214,Skin,Female,Pteropodidae,Chiroptera,Eidolon helvum,0.745038412,straw-colored fruit bat
+GSM4997811,GSE164127,GSM4997811,Rousettus aegyptiacus,9407,Skin,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.765418267,Egyptian rousette
+GSM4997814,GSE164127,GSM4997814,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.786064874,Rodriguez flying fox
+GSM4997821,GSE164127,GSM4997821,Pteropus rodricensis,77216,Skin,Female,Pteropodidae,Chiroptera,Pteropus rodricensis,0.777155356,Rodriguez flying fox
+GSM4997822,GSE164127,GSM4997822,Pteropus poliocephalus,9403,Skin,Male,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.803750534,gray-headed flying fox
+GSM4997824,GSE164127,GSM4997824,Pteropus poliocephalus,9403,Skin,Male,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.791053137,gray-headed flying fox
+GSM4997826,GSE164127,GSM4997826,Rousettus aegyptiacus,9407,Skin,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.754881562,Egyptian rousette
+GSM4997829,GSE164127,GSM4997829,Pteropus poliocephalus,9403,Skin,Male,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.802550149,gray-headed flying fox
+GSM4997832,GSE164127,GSM4997832,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.791826718,gray-headed flying fox
+GSM4997833,GSE164127,GSM4997833,Rousettus aegyptiacus,9407,Skin,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.774621212,Egyptian rousette
+GSM4997837,GSE164127,GSM4997837,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.804897567,gray-headed flying fox
+GSM4997840,GSE164127,GSM4997840,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.769899701,gray-headed flying fox
+GSM4997842,GSE164127,GSM4997842,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.795294494,gray-headed flying fox
+GSM4997843,GSE164127,GSM4997843,Rousettus aegyptiacus,9407,Skin,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.772007042,Egyptian rousette
+GSM4997844,GSE164127,GSM4997844,Pteropus giganteus,143291,Skin,Male,Pteropodidae,Chiroptera,Pteropus giganteus,0.806898207,Indian flying fox
+GSM4997845,GSE164127,GSM4997845,Rousettus aegyptiacus,9407,Skin,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.75661545,Egyptian rousette
+GSM4997846,GSE164127,GSM4997846,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.791693342,gray-headed flying fox
+GSM4997848,GSE164127,GSM4997848,Rousettus aegyptiacus,9407,Skin,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.752907597,Egyptian rousette
+GSM4997850,GSE164127,GSM4997850,Rousettus aegyptiacus,9407,Skin,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.762243918,Egyptian rousette
+GSM4997852,GSE164127,GSM4997852,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.787985489,Egyptian rousette
+GSM4997853,GSE164127,GSM4997853,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.78219697,gray-headed flying fox
+GSM4997854,GSE164127,GSM4997854,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.771420188,Egyptian rousette
+GSM4997856,GSE164127,GSM4997856,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.770166453,Egyptian rousette
+GSM4997860,GSE164127,GSM4997860,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.779102646,Egyptian rousette
+GSM4997861,GSE164127,GSM4997861,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.806684806,Egyptian rousette
+GSM4997865,GSE164127,GSM4997865,Pteropus giganteus,143291,Skin,Male,Pteropodidae,Chiroptera,Pteropus giganteus,0.814233888,Indian flying fox
+GSM4997870,GSE164127,GSM4997870,Pteropus rodricensis,77216,Skin,Male,Pteropodidae,Chiroptera,Pteropus rodricensis,0.808151942,Rodriguez flying fox
+GSM4997873,GSE164127,GSM4997873,Pteropus poliocephalus,9403,Skin,Male,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.797668587,gray-headed flying fox
+GSM4997874,GSE164127,GSM4997874,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.788118865,Egyptian rousette
+GSM4997875,GSE164127,GSM4997875,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.741864063,gray-headed flying fox
+GSM4997879,GSE164127,GSM4997879,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.787398634,Egyptian rousette
+GSM4997880,GSE164127,GSM4997880,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.79337388,Egyptian rousette
+GSM4997882,GSE164127,GSM4997882,Pteropus giganteus,143291,Skin,Male,Pteropodidae,Chiroptera,Pteropus giganteus,0.78086321,Indian flying fox
+GSM4997884,GSE164127,GSM4997884,Pteropus giganteus,143291,Skin,Female,Pteropodidae,Chiroptera,Pteropus giganteus,0.758029236,Indian flying fox
+GSM4997885,GSE164127,GSM4997885,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.783637431,gray-headed flying fox
+GSM4997886,GSE164127,GSM4997886,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.776728553,gray-headed flying fox
+GSM4997889,GSE164127,GSM4997889,Pteropus poliocephalus,9403,Skin,Female,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.747759283,gray-headed flying fox
+GSM4997894,GSE164127,GSM4997894,Rousettus aegyptiacus,9407,Skin,Male,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.775341443,Egyptian rousette
+GSM4997896,GSE164127,GSM4997896,Rousettus aegyptiacus,9407,Skin,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.767338882,Egyptian rousette
+GSM4997899,GSE164127,GSM4997899,Pteropus poliocephalus,9403,Skin,Male,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.774007682,gray-headed flying fox
+GSM4997901,GSE164127,GSM4997901,Pteropus giganteus,143291,Skin,Male,Pteropodidae,Chiroptera,Pteropus giganteus,0.808818822,Indian flying fox
+GSM4997902,GSE164127,GSM4997902,Pteropus giganteus,143291,Skin,Male,Pteropodidae,Chiroptera,Pteropus giganteus,0.787985489,Indian flying fox
+GSM4997903,GSE164127,GSM4997903,Pteropus poliocephalus,9403,Skin,Male,Pteropodidae,Chiroptera,Pteropus poliocephalus,0.807111609,gray-headed flying fox
+GSM4997906,GSE164127,GSM4997906,Rousettus aegyptiacus,9407,Liver,Female,Pteropodidae,Chiroptera,Rousettus aegyptiacus,0.487649381,Egyptian rousette
+GSM4997555,GSE164127,GSM4997555,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.721377507,greater horseshoe bat
+GSM4997556,GSE164127,GSM4997556,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.733194622,greater horseshoe bat
+GSM4997557,GSE164127,GSM4997557,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.689100512,greater horseshoe bat
+GSM4997558,GSE164127,GSM4997558,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.717989757,greater horseshoe bat
+GSM4997559,GSE164127,GSM4997559,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.687606701,greater horseshoe bat
+GSM4997560,GSE164127,GSM4997560,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.720203799,greater horseshoe bat
+GSM4997561,GSE164127,GSM4997561,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.728072983,greater horseshoe bat
+GSM4997562,GSE164127,GSM4997562,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.726765898,greater horseshoe bat
+GSM4997563,GSE164127,GSM4997563,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.716335894,greater horseshoe bat
+GSM4997564,GSE164127,GSM4997564,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.751973965,greater horseshoe bat
+GSM4997565,GSE164127,GSM4997565,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.76189714,greater horseshoe bat
+GSM4997566,GSE164127,GSM4997566,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.714868758,greater horseshoe bat
+GSM4997567,GSE164127,GSM4997567,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.728473111,greater horseshoe bat
+GSM4997568,GSE164127,GSM4997568,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.742877721,greater horseshoe bat
+GSM4997569,GSE164127,GSM4997569,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.706412719,greater horseshoe bat
+GSM4997570,GSE164127,GSM4997570,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.770193128,greater horseshoe bat
+GSM4997716,GSE164127,GSM4997716,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.695689287,greater horseshoe bat
+GSM4997717,GSE164127,GSM4997717,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.722471191,greater horseshoe bat
+GSM4997725,GSE164127,GSM4997725,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.759763124,greater horseshoe bat
+GSM4997727,GSE164127,GSM4997727,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.751867264,greater horseshoe bat
+GSM4997731,GSE164127,GSM4997731,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.718950064,greater horseshoe bat
+GSM4997732,GSE164127,GSM4997732,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.749759923,greater horseshoe bat
+GSM4997733,GSE164127,GSM4997733,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.77296735,greater horseshoe bat
+GSM4997740,GSE164127,GSM4997740,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.695262484,greater horseshoe bat
+GSM4997745,GSE164127,GSM4997745,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.684325651,greater horseshoe bat
+GSM4997748,GSE164127,GSM4997748,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.751120359,greater horseshoe bat
+GSM4997754,GSE164127,GSM4997754,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.762937473,greater horseshoe bat
+GSM4997756,GSE164127,GSM4997756,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.660157917,greater horseshoe bat
+GSM4997758,GSE164127,GSM4997758,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.671734955,greater horseshoe bat
+GSM4997761,GSE164127,GSM4997761,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.69534251,greater horseshoe bat
+GSM4997763,GSE164127,GSM4997763,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.768139138,greater horseshoe bat
+GSM4997778,GSE164127,GSM4997778,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.701664533,greater horseshoe bat
+GSM4997779,GSE164127,GSM4997779,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.728153009,greater horseshoe bat
+GSM4997796,GSE164127,GSM4997796,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.718790013,greater horseshoe bat
+GSM4997799,GSE164127,GSM4997799,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.638977806,greater horseshoe bat
+GSM4997800,GSE164127,GSM4997800,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.66837388,greater horseshoe bat
+GSM4997801,GSE164127,GSM4997801,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.755415066,greater horseshoe bat
+GSM4997803,GSE164127,GSM4997803,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.775661545,greater horseshoe bat
+GSM4997804,GSE164127,GSM4997804,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.792653649,greater horseshoe bat
+GSM4997805,GSE164127,GSM4997805,Rhinolophus ferrumequinum,59479,Skin,Female,Rhinolophidae,Chiroptera,Rhinolophus ferrumequinum,0.764537985,greater horseshoe bat
+GSM4997192,GSE164127,GSM4997192,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.723244772,evening bat
+GSM4997199,GSE164127,GSM4997199,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.717829706,evening bat
+GSM4997200,GSE164127,GSM4997200,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.743758003,evening bat
+GSM4997206,GSE164127,GSM4997206,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.713908451,evening bat
+GSM4997210,GSE164127,GSM4997210,Nycticeius humeralis,27670,Muscle,Male,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.718016432,evening bat
+GSM4997214,GSE164127,GSM4997214,Nycticeius humeralis,27670,Muscle,Male,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.75461481,evening bat
+GSM4997215,GSE164127,GSM4997215,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.711080879,evening bat
+GSM4997217,GSE164127,GSM4997217,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.726179044,evening bat
+GSM4997219,GSE164127,GSM4997219,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.709773794,evening bat
+GSM4997224,GSE164127,GSM4997224,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.722497866,evening bat
+GSM4997233,GSE164127,GSM4997233,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.704225352,evening bat
+GSM4997235,GSE164127,GSM4997235,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.752214042,evening bat
+GSM4997239,GSE164127,GSM4997239,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.700090696,evening bat
+GSM4997240,GSE164127,GSM4997240,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.585093897,evening bat
+GSM4997244,GSE164127,GSM4997244,Nycticeius humeralis,27670,Muscle,Male,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.734074904,evening bat
+GSM4997250,GSE164127,GSM4997250,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.710734102,evening bat
+GSM4997255,GSE164127,GSM4997255,Nycticeius humeralis,27670,Muscle,Male,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.68483248,evening bat
+GSM4997261,GSE164127,GSM4997261,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.709293641,evening bat
+GSM4997264,GSE164127,GSM4997264,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.701744558,evening bat
+GSM4997266,GSE164127,GSM4997266,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.705825864,evening bat
+GSM4997269,GSE164127,GSM4997269,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.727459454,evening bat
+GSM4997271,GSE164127,GSM4997271,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.713695049,evening bat
+GSM4997275,GSE164127,GSM4997275,Nycticeius humeralis,27670,Muscle,Male,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.729673496,evening bat
+GSM4997278,GSE164127,GSM4997278,Nycticeius humeralis,27670,Muscle,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.701824584,evening bat
+GSM4997385,GSE164127,GSM4997385,Myotis vivesi,233766,Skin,Male,Vespertilionidae,Chiroptera,Myotis vivesi,0.755041613,fish-eating bat
+GSM4997387,GSE164127,GSM4997387,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.750186726,fish-eating bat
+GSM4997388,GSE164127,GSM4997388,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.76445796,big brown bat
+GSM4997390,GSE164127,GSM4997390,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.750586854,fish-eating bat
+GSM4997395,GSE164127,GSM4997395,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.750880282,big brown bat
+GSM4997397,GSE164127,GSM4997397,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.765391592,fish-eating bat
+GSM4997398,GSE164127,GSM4997398,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.771927017,big brown bat
+GSM4997400,GSE164127,GSM4997400,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.762590696,big brown bat
+GSM4997403,GSE164127,GSM4997403,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.763364277,fish-eating bat
+GSM4997404,GSE164127,GSM4997404,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.774087708,big brown bat
+GSM4997407,GSE164127,GSM4997407,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.747732608,fish-eating bat
+GSM4997409,GSE164127,GSM4997409,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.738022834,fish-eating bat
+GSM4997412,GSE164127,GSM4997412,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.750426803,fish-eating bat
+GSM4997414,GSE164127,GSM4997414,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.75394793,big brown bat
+GSM4997416,GSE164127,GSM4997416,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.752480794,big brown bat
+GSM4997418,GSE164127,GSM4997418,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.770726633,big brown bat
+GSM4997420,GSE164127,GSM4997420,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.741330559,big brown bat
+GSM4997429,GSE164127,GSM4997429,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.774834614,big brown bat
+GSM4997431,GSE164127,GSM4997431,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.771820316,big brown bat
+GSM4997434,GSE164127,GSM4997434,Myotis vivesi,233766,Skin,Male,Vespertilionidae,Chiroptera,Myotis vivesi,0.743784678,fish-eating bat
+GSM4997437,GSE164127,GSM4997437,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.758295988,big brown bat
+GSM4997438,GSE164127,GSM4997438,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.765604994,big brown bat
+GSM4997439,GSE164127,GSM4997439,Myotis vivesi,233766,Skin,Male,Vespertilionidae,Chiroptera,Myotis vivesi,0.757762484,fish-eating bat
+GSM4997441,GSE164127,GSM4997441,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.742290866,fish-eating bat
+GSM4997442,GSE164127,GSM4997442,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.744931711,big brown bat
+GSM4997446,GSE164127,GSM4997446,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.778622493,big brown bat
+GSM4997448,GSE164127,GSM4997448,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.75922962,big brown bat
+GSM4997449,GSE164127,GSM4997449,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.756241997,big brown bat
+GSM4997450,GSE164127,GSM4997450,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.736502347,big brown bat
+GSM4997452,GSE164127,GSM4997452,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.782463722,big brown bat
+GSM4997453,GSE164127,GSM4997453,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.746638924,fish-eating bat
+GSM4997454,GSE164127,GSM4997454,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.750586854,big brown bat
+GSM4997455,GSE164127,GSM4997455,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.760990184,big brown bat
+GSM4997456,GSE164127,GSM4997456,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.747919334,fish-eating bat
+GSM4997459,GSE164127,GSM4997459,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.770433205,big brown bat
+GSM4997461,GSE164127,GSM4997461,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.75066688,big brown bat
+GSM4997462,GSE164127,GSM4997462,Myotis vivesi,233766,Skin,Male,Vespertilionidae,Chiroptera,Myotis vivesi,0.75722898,fish-eating bat
+GSM4997463,GSE164127,GSM4997463,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.747892659,fish-eating bat
+GSM4997466,GSE164127,GSM4997466,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.761256936,big brown bat
+GSM4997467,GSE164127,GSM4997467,Myotis vivesi,233766,Skin,Male,Vespertilionidae,Chiroptera,Myotis vivesi,0.739409945,fish-eating bat
+GSM4997471,GSE164127,GSM4997471,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.778088988,big brown bat
+GSM4997474,GSE164127,GSM4997474,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.750586854,fish-eating bat
+GSM4997476,GSE164127,GSM4997476,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.773527529,big brown bat
+GSM4997478,GSE164127,GSM4997478,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.778062313,big brown bat
+GSM4997512,GSE164127,GSM4997512,Eptesicus fuscus,29078,Muscle,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.752774221,big brown bat
+GSM4997516,GSE164127,GSM4997516,Eptesicus fuscus,29078,Muscle,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.555564447,big brown bat
+GSM4997519,GSE164127,GSM4997519,Eptesicus fuscus,29078,Muscle,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.72036385,big brown bat
+GSM4997521,GSE164127,GSM4997521,Eptesicus fuscus,29078,Muscle,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.705745839,big brown bat
+GSM4997524,GSE164127,GSM4997524,Eptesicus fuscus,29078,Muscle,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.773900982,big brown bat
+GSM4997526,GSE164127,GSM4997526,Eptesicus fuscus,29078,Muscle,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.632682458,big brown bat
+GSM4997528,GSE164127,GSM4997528,Eptesicus fuscus,29078,Liver,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.760830132,big brown bat
+GSM4997529,GSE164127,GSM4997529,Eptesicus fuscus,29078,Liver,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.725058685,big brown bat
+GSM4997530,GSE164127,GSM4997530,Eptesicus fuscus,29078,Brain,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.690460948,big brown bat
+GSM4997531,GSE164127,GSM4997531,Myotis brandtii,109478,Muscle,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.801189714,Brandt's bat
+GSM4997532,GSE164127,GSM4997532,Myotis brandtii,109478,Liver,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.781423389,Brandt's bat
+GSM4997533,GSE164127,GSM4997533,Myotis brandtii,109478,Brain,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.784571063,Brandt's bat
+GSM4997534,GSE164127,GSM4997534,Myotis brandtii,109478,Muscle,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.786465002,Brandt's bat
+GSM4997535,GSE164127,GSM4997535,Myotis brandtii,109478,Liver,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.797828638,Brandt's bat
+GSM4997536,GSE164127,GSM4997536,Myotis brandtii,109478,Brain,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.776488476,Brandt's bat
+GSM4997537,GSE164127,GSM4997537,Myotis brandtii,109478,Muscle,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.786731754,Brandt's bat
+GSM4997538,GSE164127,GSM4997538,Myotis brandtii,109478,Liver,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.770513231,Brandt's bat
+GSM4997539,GSE164127,GSM4997539,Myotis brandtii,109478,Brain,Male,Vespertilionidae,Chiroptera,Myotis brandtii,0.786518353,Brandt's bat
+GSM4997540,GSE164127,GSM4997540,Myotis brandtii,109478,Muscle,Female,Vespertilionidae,Chiroptera,Myotis brandtii,0.793560606,Brandt's bat
+GSM4997541,GSE164127,GSM4997541,Myotis brandtii,109478,Liver,Female,Vespertilionidae,Chiroptera,Myotis brandtii,0.772593897,Brandt's bat
+GSM4997542,GSE164127,GSM4997542,Myotis brandtii,109478,Brain,Female,Vespertilionidae,Chiroptera,Myotis brandtii,0.802416773,Brandt's bat
+GSM4997543,GSE164127,GSM4997543,Nyctalus noctula,51300,Muscle,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.747279129,noctule
+GSM4997544,GSE164127,GSM4997544,Nyctalus noctula,51300,Liver,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.730793854,noctule
+GSM4997545,GSE164127,GSM4997545,Nyctalus noctula,51300,Brain,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.726739223,noctule
+GSM4997546,GSE164127,GSM4997546,Nyctalus noctula,51300,Muscle,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.725005335,noctule
+GSM4997547,GSE164127,GSM4997547,Nyctalus noctula,51300,Liver,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.720577251,noctule
+GSM4997548,GSE164127,GSM4997548,Nyctalus noctula,51300,Brain,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.716682672,noctule
+GSM4997549,GSE164127,GSM4997549,Nyctalus noctula,51300,Muscle,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.733194622,noctule
+GSM4997550,GSE164127,GSM4997550,Nyctalus noctula,51300,Liver,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.744131455,noctule
+GSM4997551,GSE164127,GSM4997551,Nyctalus noctula,51300,Brain,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.745465216,noctule
+GSM4997552,GSE164127,GSM4997552,Nyctalus noctula,51300,Muscle,Female,Vespertilionidae,Chiroptera,Nyctalus noctula,0.736422322,noctule
+GSM4997553,GSE164127,GSM4997553,Nyctalus noctula,51300,Liver,Female,Vespertilionidae,Chiroptera,Nyctalus noctula,0.733034571,noctule
+GSM4997554,GSE164127,GSM4997554,Nyctalus noctula,51300,Brain,Female,Vespertilionidae,Chiroptera,Nyctalus noctula,0.746825651,noctule
+GSM4997571,GSE164127,GSM4997571,Myotis myotis,51298,Skin,Male,Vespertilionidae,Chiroptera,Myotis myotis,0.472711268,
+GSM4997572,GSE164127,GSM4997572,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.603019633,
+GSM4997573,GSE164127,GSM4997573,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.527662185,
+GSM4997574,GSE164127,GSM4997574,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.564634016,
+GSM4997575,GSE164127,GSM4997575,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.61182245,
+GSM4997576,GSE164127,GSM4997576,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.449877294,
+GSM4997577,GSE164127,GSM4997577,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.593870038,
+GSM4997578,GSE164127,GSM4997578,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.613636364,
+GSM4997579,GSE164127,GSM4997579,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.60987516,
+GSM4997580,GSE164127,GSM4997580,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.600218737,
+GSM4997581,GSE164127,GSM4997581,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.596911012,
+GSM4997582,GSE164127,GSM4997582,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.549242424,
+GSM4997583,GSE164127,GSM4997583,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.572129748,
+GSM4997584,GSE164127,GSM4997584,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.607554417,
+GSM4997585,GSE164127,GSM4997585,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.597471191,
+GSM4997586,GSE164127,GSM4997586,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.601045668,
+GSM4997587,GSE164127,GSM4997587,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.556578105,
+GSM4997588,GSE164127,GSM4997588,Myotis myotis,51298,Skin,Male,Vespertilionidae,Chiroptera,Myotis myotis,0.515391592,
+GSM4997589,GSE164127,GSM4997589,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.573703585,
+GSM4997590,GSE164127,GSM4997590,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.564073837,
+GSM4997591,GSE164127,GSM4997591,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.587334614,
+GSM4997592,GSE164127,GSM4997592,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.630681818,
+GSM4997593,GSE164127,GSM4997593,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.622519206,
+GSM4997594,GSE164127,GSM4997594,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.605046948,
+GSM4997595,GSE164127,GSM4997595,Myotis myotis,51298,Skin,Male,Vespertilionidae,Chiroptera,Myotis myotis,0.46841656,
+GSM4997596,GSE164127,GSM4997596,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.590348912,
+GSM4997597,GSE164127,GSM4997597,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.55060286,
+GSM4997598,GSE164127,GSM4997598,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.533130602,
+GSM4997599,GSE164127,GSM4997599,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.623799616,
+GSM4997600,GSE164127,GSM4997600,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.451477806,
+GSM4997601,GSE164127,GSM4997601,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.608354673,
+GSM4997602,GSE164127,GSM4997602,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.600485489,
+GSM4997603,GSE164127,GSM4997603,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.626253735,
+GSM4997604,GSE164127,GSM4997604,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.592029449,
+GSM4997605,GSE164127,GSM4997605,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.606514085,
+GSM4997606,GSE164127,GSM4997606,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.554684166,
+GSM4997607,GSE164127,GSM4997607,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.59146927,
+GSM4997608,GSE164127,GSM4997608,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.599818609,
+GSM4997609,GSE164127,GSM4997609,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.60792787,
+GSM4997610,GSE164127,GSM4997610,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.612702732,
+GSM4997611,GSE164127,GSM4997611,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.571569569,
+GSM4997612,GSE164127,GSM4997612,Myotis myotis,51298,Skin,Male,Vespertilionidae,Chiroptera,Myotis myotis,0.509923175,
+GSM4997613,GSE164127,GSM4997613,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.543213828,
+GSM4997614,GSE164127,GSM4997614,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.533050576,
+GSM4997615,GSE164127,GSM4997615,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.558658771,
+GSM4997616,GSE164127,GSM4997616,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.635483355,
+GSM4997617,GSE164127,GSM4997617,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.625640205,
+GSM4997618,GSE164127,GSM4997618,Myotis myotis,51298,Skin,Female,Vespertilionidae,Chiroptera,Myotis myotis,0.616650662,
+GSM4997621,GSE164127,GSM4997621,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.754934913,little brown bat
+GSM4997623,GSE164127,GSM4997623,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.754294708,little brown bat
+GSM4997625,GSE164127,GSM4997625,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.766191848,little brown bat
+GSM4997626,GSE164127,GSM4997626,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.762857448,little brown bat
+GSM4997640,GSE164127,GSM4997640,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.728846564,little brown bat
+GSM4997641,GSE164127,GSM4997641,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.75266752,little brown bat
+GSM4997651,GSE164127,GSM4997651,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.739409945,little brown bat
+GSM4997662,GSE164127,GSM4997662,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.692968417,little brown bat
+GSM4997670,GSE164127,GSM4997670,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.75328105,little brown bat
+GSM4997682,GSE164127,GSM4997682,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.802496799,little brown bat
+GSM4997683,GSE164127,GSM4997683,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.768779343,little brown bat
+GSM4997684,GSE164127,GSM4997684,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.782490397,little brown bat
+GSM4997687,GSE164127,GSM4997687,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.788999146,little brown bat
+GSM4997692,GSE164127,GSM4997692,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.764644686,little brown bat
+GSM4997694,GSE164127,GSM4997694,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.771900341,little brown bat
+GSM4997702,GSE164127,GSM4997702,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.769659624,little brown bat
+GSM4997713,GSE164127,GSM4997713,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.758376014,little brown bat
+GSM4997714,GSE164127,GSM4997714,Myotis lucifugus,59463,Skin,Female,Vespertilionidae,Chiroptera,Myotis lucifugus,0.755148314,little brown bat
+GSM4997715,GSE164127,GSM4997715,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.682671788,pallid bat
+GSM4997718,GSE164127,GSM4997718,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.675336108,pallid bat
+GSM4997720,GSE164127,GSM4997720,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.669440888,pallid bat
+GSM4997721,GSE164127,GSM4997721,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.688807085,pallid bat
+GSM4997722,GSE164127,GSM4997722,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.69873026,pallid bat
+GSM4997729,GSE164127,GSM4997729,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.703798549,pallid bat
+GSM4997730,GSE164127,GSM4997730,Antrozous pallidus,9440,Skin,Male,Vespertilionidae,Chiroptera,Antrozous pallidus,0.699663892,pallid bat
+GSM4997735,GSE164127,GSM4997735,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.696622919,pallid bat
+GSM4997737,GSE164127,GSM4997737,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.682911865,pallid bat
+GSM4997739,GSE164127,GSM4997739,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.692568289,pallid bat
+GSM4997744,GSE164127,GSM4997744,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.663679044,pallid bat
+GSM4997747,GSE164127,GSM4997747,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.684005548,pallid bat
+GSM4997765,GSE164127,GSM4997765,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.586667734,pallid bat
+GSM4997767,GSE164127,GSM4997767,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.661224925,pallid bat
+GSM4997768,GSE164127,GSM4997768,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.655516432,pallid bat
+GSM4997772,GSE164127,GSM4997772,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.677256722,pallid bat
+GSM4997783,GSE164127,GSM4997783,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.718389885,pallid bat
+GSM4997788,GSE164127,GSM4997788,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.714948784,pallid bat
+GSM4997791,GSE164127,GSM4997791,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.697636577,pallid bat
+GSM4997792,GSE164127,GSM4997792,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.669600939,pallid bat
+GSM4997793,GSE164127,GSM4997793,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.71124093,pallid bat
+GSM4997797,GSE164127,GSM4997797,Antrozous pallidus,9440,Skin,Female,Vespertilionidae,Chiroptera,Antrozous pallidus,0.665066155,pallid bat
+GSM4997807,GSE164127,GSM4997807,Antrozous pallidus,9440,Skin,Male,Vespertilionidae,Chiroptera,Antrozous pallidus,0.698303457,pallid bat
+GSM4997816,GSE164127,GSM4997816,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.735835467,big brown bat
+GSM4997819,GSE164127,GSM4997819,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.74799936,big brown bat
+GSM4997820,GSE164127,GSM4997820,Nycticeius humeralis,27670,Skin,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.296548229,evening bat
+GSM4997823,GSE164127,GSM4997823,Nyctalus noctula,51300,Skin,Female,Vespertilionidae,Chiroptera,Nyctalus noctula,0.661651729,noctule
+GSM4997827,GSE164127,GSM4997827,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.733648101,big brown bat
+GSM4997828,GSE164127,GSM4997828,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.711667734,big brown bat
+GSM4997830,GSE164127,GSM4997830,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.726632522,big brown bat
+GSM4997834,GSE164127,GSM4997834,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.714095177,big brown bat
+GSM4997836,GSE164127,GSM4997836,Nycticeius humeralis,27670,Skin,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.419974392,evening bat
+GSM4997841,GSE164127,GSM4997841,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.743838028,big brown bat
+GSM4997847,GSE164127,GSM4997847,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.752747546,big brown bat
+GSM4997855,GSE164127,GSM4997855,Nycticeius humeralis,27670,Skin,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.323410158,evening bat
+GSM4997857,GSE164127,GSM4997857,Nycticeius humeralis,27670,Skin,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.116063807,evening bat
+GSM4997858,GSE164127,GSM4997858,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.666826718,fish-eating bat
+GSM4997859,GSE164127,GSM4997859,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.743784678,big brown bat
+GSM4997862,GSE164127,GSM4997862,Myotis vivesi,233766,Skin,Female,Vespertilionidae,Chiroptera,Myotis vivesi,0.711747759,fish-eating bat
+GSM4997863,GSE164127,GSM4997863,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.742530943,big brown bat
+GSM4997869,GSE164127,GSM4997869,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.723458173,big brown bat
+GSM4997871,GSE164127,GSM4997871,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.726339095,big brown bat
+GSM4997876,GSE164127,GSM4997876,Myotis vivesi,233766,Skin,Male,Vespertilionidae,Chiroptera,Myotis vivesi,0.68683312,fish-eating bat
+GSM4997881,GSE164127,GSM4997881,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.714842083,big brown bat
+GSM4997883,GSE164127,GSM4997883,Nyctalus noctula,51300,Skin,Female,Vespertilionidae,Chiroptera,Nyctalus noctula,0.669440888,noctule
+GSM4997888,GSE164127,GSM4997888,Nyctalus noctula,51300,Skin,Female,Vespertilionidae,Chiroptera,Nyctalus noctula,0.416773367,noctule
+GSM4997892,GSE164127,GSM4997892,Nyctalus noctula,51300,Skin,Female,Vespertilionidae,Chiroptera,Nyctalus noctula,0.636923816,noctule
+GSM4997897,GSE164127,GSM4997897,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.738236236,big brown bat
+GSM4997898,GSE164127,GSM4997898,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.748986342,big brown bat
+GSM4997904,GSE164127,GSM4997904,Nycticeius humeralis,27670,Skin,Female,Vespertilionidae,Chiroptera,Nycticeius humeralis,0.080105634,evening bat
+GSM4997905,GSE164127,GSM4997905,Nyctalus noctula,51300,Skin,Male,Vespertilionidae,Chiroptera,Nyctalus noctula,0.466949424,noctule
+GSM4997907,GSE164127,GSM4997907,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.732047589,big brown bat
+GSM4997908,GSE164127,GSM4997908,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.748586214,big brown bat
+GSM4997909,GSE164127,GSM4997909,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.755388391,big brown bat
+GSM4997910,GSE164127,GSM4997910,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.738076184,big brown bat
+GSM4997911,GSE164127,GSM4997911,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.726045668,big brown bat
+GSM4997912,GSE164127,GSM4997912,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.72503201,big brown bat
+GSM4997913,GSE164127,GSM4997913,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.724071703,big brown bat
+GSM4997914,GSE164127,GSM4997914,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.74538519,big brown bat
+GSM4997915,GSE164127,GSM4997915,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.740076825,big brown bat
+GSM4997916,GSE164127,GSM4997916,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.753147674,big brown bat
+GSM4997917,GSE164127,GSM4997917,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.760803457,big brown bat
+GSM4997918,GSE164127,GSM4997918,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.731914213,big brown bat
+GSM4997919,GSE164127,GSM4997919,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.748292787,big brown bat
+GSM4997920,GSE164127,GSM4997920,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.751467136,big brown bat
+GSM4997921,GSE164127,GSM4997921,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.755761844,big brown bat
+GSM4997922,GSE164127,GSM4997922,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.749786598,big brown bat
+GSM4997923,GSE164127,GSM4997923,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.760163252,big brown bat
+GSM4997924,GSE164127,GSM4997924,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.738796415,big brown bat
+GSM4997925,GSE164127,GSM4997925,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.743224499,big brown bat
+GSM4997926,GSE164127,GSM4997926,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.714388604,big brown bat
+GSM4997927,GSE164127,GSM4997927,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.761470337,big brown bat
+GSM4997928,GSE164127,GSM4997928,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.746585574,big brown bat
+GSM4997929,GSE164127,GSM4997929,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.728179684,big brown bat
+GSM4997930,GSE164127,GSM4997930,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.738289586,big brown bat
+GSM4997931,GSE164127,GSM4997931,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.742877721,big brown bat
+GSM4997932,GSE164127,GSM4997932,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.75528169,big brown bat
+GSM4997933,GSE164127,GSM4997933,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.755255015,big brown bat
+GSM4997934,GSE164127,GSM4997934,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.747919334,big brown bat
+GSM4997935,GSE164127,GSM4997935,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.727512804,big brown bat
+GSM4997936,GSE164127,GSM4997936,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.736448997,big brown bat
+GSM4997937,GSE164127,GSM4997937,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.683418694,big brown bat
+GSM4997938,GSE164127,GSM4997938,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.752267392,big brown bat
+GSM4997939,GSE164127,GSM4997939,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.757922535,big brown bat
+GSM4997940,GSE164127,GSM4997940,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.763284251,big brown bat
+GSM4997941,GSE164127,GSM4997941,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.733274648,big brown bat
+GSM4997942,GSE164127,GSM4997942,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.750560179,big brown bat
+GSM4997943,GSE164127,GSM4997943,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.657303671,big brown bat
+GSM4997944,GSE164127,GSM4997944,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.64084507,big brown bat
+GSM4997945,GSE164127,GSM4997945,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.695102433,big brown bat
+GSM4997946,GSE164127,GSM4997946,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.690140845,big brown bat
+GSM4997947,GSE164127,GSM4997947,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.676563167,big brown bat
+GSM4997948,GSE164127,GSM4997948,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.6579172,big brown bat
+GSM4997949,GSE164127,GSM4997949,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.656796842,big brown bat
+GSM4997950,GSE164127,GSM4997950,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.660424669,big brown bat
+GSM4997951,GSE164127,GSM4997951,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.652822236,big brown bat
+GSM4997952,GSE164127,GSM4997952,Eptesicus fuscus,29078,Skin,Female,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.664746052,big brown bat
+GSM4997953,GSE164127,GSM4997953,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.650848271,big brown bat
+GSM4997954,GSE164127,GSM4997954,Eptesicus fuscus,29078,Skin,Male,Vespertilionidae,Chiroptera,Eptesicus fuscus,0.657170294,big brown bat
